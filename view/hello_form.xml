@@ -1,0 +1,5 @@
+<data>
+    <xpath expr="/form" position="inside">
+         <field name="attachments" colspan="4"/>
+    </xpath>
+</data>
